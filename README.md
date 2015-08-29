@@ -11,7 +11,7 @@ The following combinations added:
 * AltGr + ' = `
 * AltGr + d = ð
 * AltGr + Shift + d = Ð
-* AltGr + Shift + e = Ξ [only for UTF-8 capable applications, otherwise ? will be printed]
+* AltGr + Shift + e = Ξ   *(only for UTF-8 capable applications, otherwise character '?' will be printed)*
 
 ## Editors
 
