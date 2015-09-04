@@ -19,6 +19,7 @@ To edit **klc** files you can use the [Microsoft Keyboard Layout Creator](https:
 
 ## Precompiled installers
 
-* [italian-keyboard-for-developers-1.0.zip](https://onedrive.live.com/redir?resid=E0EDEC79268FC32E!1086&authkey=!AL7F1NfjF-ExApk&ithint=file%2czip)
+* [italian-keyboard-for-developers-1.1.zip](http://1drv.ms/1ilNNmQ)
+
 
 After the installation you often need to restart Windows in order to enable all keyboard changes.
