@@ -19,7 +19,4 @@ To edit **klc** files you can use the [Microsoft Keyboard Layout Creator](https:
 
 ## Precompiled installers
 
-* [italian-keyboard-for-developers-1.1.zip](http://1drv.ms/1KIsKaB)
-
-
-After the installation you often need to restart Windows in order to enable all keyboard changes.
+Visit the [releases](/Neurone/keyboard-layouts/releases) page to download precomplied layouts. After the installation you often need to restart Windows in order to enable all keyboard changes.
