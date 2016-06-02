@@ -19,4 +19,4 @@ To edit **klc** files you can use the [Microsoft Keyboard Layout Creator](https:
 
 ## Precompiled installers
 
-Visit the [releases](/Neurone/keyboard-layouts/releases) page to download precomplied layouts. After the installation you often need to restart Windows in order to enable all keyboard changes.
+Visit the [releases](https://github.com/Neurone/keyboard-layouts/releases) page to download precomplied layouts. After the installation you often need to restart Windows in order to enable all keyboard changes.
