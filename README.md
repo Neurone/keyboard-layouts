@@ -15,7 +15,7 @@ The following combinations added:
 
 ## Editors
 
-To edit **klc** files you can use the [Microsoft Keyboard Layout Creator](https://msdn.microsoft.com/en-us/goglobal/bb964665.aspx). MKLC can also create installer files from klc files, so you can distribute your own keyboard layout to other users.
+To edit **klc** files you can use the [Microsoft Keyboard Layout Creator](https://msdn.microsoft.com/en-us/goglobal/bb964665.aspx). MSKLC can also create installer files from klc files, so you can distribute your own keyboard layout to other users.
 
 ## Precompiled installers
 
