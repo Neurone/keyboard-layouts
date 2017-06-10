@@ -1,9 +1,9 @@
 # Keyboard layouts
 Repository containing various keyboard layouts, even that at the moment you can actually find only one :)
 
-##List of layouts
+## List of layouts
 
-###Italian Keyboard Layout for Developers
+### Italian Keyboard Layout for Developers
 
 The following combinations added:
 
